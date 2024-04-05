@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋</h1>
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=hasyim-fery&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Hazeem45&label=Profile%20views&color=0e75b6&style=flat"
     alt="Hasyim-fery" /> 
   </p>
 
@@ -17,15 +17,15 @@
 
 <h3>Statistical Data :-</h3>
 <p><img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=hasyim-fery&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Hazeem45&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Hasyim-fery" 
     bg_color=#808080/></p>
 
 <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hasyim-fery&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hazeem45&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="Hasyim-fery" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hasyim-fery&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Hasyim-fery" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hazeem45&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Hasyim-fery" /></p>
